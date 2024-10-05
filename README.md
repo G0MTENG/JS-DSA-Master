@@ -1,6 +1,16 @@
 # JS-DSA-Master
 Udemy: [JavaScript 알고리즘 &amp; 자료구조 마스터클래스] 정리
 
+### 폴더 설명
+`code`
+> 문제 푼거 정리
+
+`document`
+> 수업에 대한 정리
+
+`snippet`
+> 코드 스니팻으로 꼭 암기하거나 이해해야 하는 코드
+
 ### 진행 상황
 - [ ] Section1. 소개 수강
 - [ ] Section1. 소개 정리

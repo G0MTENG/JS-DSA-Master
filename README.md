@@ -1,5 +1,5 @@
 # JS-DSA-Master
-Udemy: [JavaScript 알고리즘 &amp; 자료구조 마스터클래스] 정리
+Udemy: [JavaScript 알고리즘 &amp; 자료구조 마스터클래스](https://www.udemy.com/course/best-javascript-data-structures/?couponCode=KEEPLEARNING) 정리
 
 ### 폴더 설명
 `code`
@@ -12,10 +12,14 @@ Udemy: [JavaScript 알고리즘 &amp; 자료구조 마스터클래스] 정리
 > 코드 스니팻으로 꼭 암기하거나 이해해야 하는 코드
 
 ### 진행 상황
-- [ ] Section1. 소개 수강
-- [ ] Section1. 소개 정리
-- [ ] Section2. Big-O 표기법 수강
-- [ ] Section2. Big-O 표기법 정리
+- [X] Section1. 소개 수강
+> 10월 5일 (토요일)
+- [X] Section1. 소개 정리
+> 10월 5일 (토요일)
+- [X] Section2. Big-O 표기법 수강
+> 10월 5일 토요일
+- [X] Section2. Big-O 표기법 정리
+> 10월 5일 토요일
 - [ ] Section3. 배열과 오브젝트의 성능 평가
 - [ ] Section3. 배열과 오브젝트의 성능 평가 정리
 - [ ] Section4. 문제 해결 접근법 수강

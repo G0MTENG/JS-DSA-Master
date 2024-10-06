@@ -24,18 +24,14 @@ Udemy: [JavaScript 알고리즘 &amp; 자료구조 마스터클래스](https://w
 > 10월 6일 일요일
 - [X] Section3. 배열과 오브젝트의 성능 평가 정리
 > 10월 6일 일요일
-- [ ] Section4. 문제 해결 접근법 수강
-- [ ] Section4. 문제 해결 접근법 정리
-- [ ] Section5. 문제 해결 패턴 수강
-- [ ] Section5. 문제 해결 패턴 정리
-- [ ] Section6. 100% 선택적 도전 과제 수강
-- [ ] Section6. 100% 선택적 도전 과제 정리
-- [ ] Section7. 재귀 수강
-- [ ] Section7. 재귀 정리
-- [ ] Section8. 재귀 문제 집합 수강
-- [ ] Section8. 재귀 문제 집합 정리
-- [ ] Section9. 보너스 도전 재귀 문제 수강
-- [ ] Section9. 보너스 도전 재귀 문제 정리
+- [X] Section7. 재귀 수강
+> 10월 6일 일요일
+- [X] Section7. 재귀 정리
+> 10월 6일 일요일
+- [X] Section8. 재귀 문제 집합
+> 10월 6일 일요일
+- [X] Section9. 보너스 도전 재귀 문제
+> 10월 6일 일요일
 - [ ] Section10. 검색 알고리즘 수강
 - [ ] Section10. 검색 알고리즘 정리
 - [ ] Section11. 버블 정렬 수강
